@@ -1,0 +1,14 @@
+{
+  "name": "ITKamianets.Engine.Graybox.Editor",
+  "rootNamespace": "ITKamianets.Engine.Graybox.EditorTools",
+  "references": [],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
