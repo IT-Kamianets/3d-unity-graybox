@@ -13,7 +13,7 @@ Scene builders written with these stay short and can be run again at any time to
 
 ### Status
 
-v0.1: `AssetIdTag`, `GrayboxBuilder` (with world text). Used by every Temnorid game with a built scene.
+v0.1.1: `AssetIdTag`, `GrayboxBuilder` (with world text). Used by every Temnorid game with a built scene.
 
 ### Roadmap
 

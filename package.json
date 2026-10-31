@@ -1,6 +1,6 @@
 {
   "name": "com.itkamianets.3d-unity-graybox",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Unity Graybox",
   "description": "Building a game's first playable from Unity primitives: stable asset ids on everything that will later get a real model, and Editor helpers that make primitives and plain materials, so scene builders stay short.",
   "unity": "6000.6",
